@@ -1,0 +1,23 @@
+body {
+
+background-color: #ffcdab;
+
+}
+hr {
+
+
+  border-style: none;
+  border-color: #caabd8;
+  border-top-style: dotted;
+  border-width: 6px;
+width: 10%
+}
+
+h1 {color: #005542;}
+
+
+ .unicorn {background-color: white;}
+ .butterfly{ background-color: blue;}
+ .circular {border-radius: 50%;}
+
+ img:hover { background-color: gold;}
